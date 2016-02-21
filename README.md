@@ -9,6 +9,7 @@ Content-Type: image/svg+xml
 
 ## This doesn't work (and viewing as file doesn't works too) 
 Content-Type: image/svg+xml
+
 Content-Encoding: gzip
 
 ![SVGZ test](footer__copyright-logo_lang_ru.svgz)
